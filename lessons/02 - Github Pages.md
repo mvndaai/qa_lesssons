@@ -14,7 +14,7 @@ Follow the GitHub Pages [tutorial](https://pages.github.com/). You should end wi
 
 ### Update your page
 
-Use the [basic_html](../docs/basic_html) folder as an example.
+Use the [docs/basic_html](../docs/basic_html) folder as an example.
 
 Once all your changes are ready commit and push them to the repo.
 
